@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mdx-deck": "^1.6.3"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "name": "mdx-desk-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
