@@ -1,14 +1,4 @@
-# DEMOs
-
-    * mdx-deck
-    *react-live
-    *maid
-
-
-## Tasks
-<!-- maid-tasks -->
-
-### build
+## build
 
 This build the project
 
@@ -20,7 +10,7 @@ Run task `end` after.
 npx parcel build index.html
 ```
 
-### dev
+## dev
 
 This is for development
 
@@ -28,7 +18,7 @@ This is for development
 npx parcel index.html
 ```
 
-### start
+## start
 
 This run before the build
 
@@ -36,7 +26,7 @@ This run before the build
 console.log("task start")
 ```
 
-### end
+## end
 
 This run after the build
 
